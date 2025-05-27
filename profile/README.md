@@ -10,13 +10,16 @@ This organization serves as a structured environment for:
 - Demonstrating infrastructure automation capabilities
 - Following consistent project standards and naming conventions
 
+## Current Certifications
+- CompTIA Project+
+- Google Project Management Certificate
+
 ## Current Learning Focus
 
 ### Certifications in Progress
 - AWS Solutions Architect Associate
 - CompTIA Security+ SY0-701 (Renewal)
 - HashiCorp Terraform Associate (Planned)
-- Google Project Management Certificate
 
 ### Technology Areas
 - **AWS Cloud**: Building foundational knowledge in AWS services
