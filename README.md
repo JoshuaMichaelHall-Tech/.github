@@ -1,84 +1,45 @@
-# JoshuaMichaelHall-Tech
+# Joshua Michael Hall
 
-This GitHub organization serves as a structured technical environment for my DevOps/SRE projects, learning materials, and professional work. It follows consistent naming conventions and organizational standards to maintain a professional, well-organized codebase.
+Infrastructure professional transitioning to DevOps engineering, currently building systematic expertise through AWS, Security+, and Terraform certifications.
 
-## Organization Purpose
+## Professional Background
 
-- Showcase DevOps/SRE learning path and professional growth
-- Establish consistent implementation patterns for infrastructure projects
-- Demonstrate financial services platform engineering capabilities
-- Provide structured learning resources for DevOps technologies
-- Support long-term career development toward senior platform engineering roles
+- Led 13-person technical team deploying 5,000 systems at Vanderbilt Hospital
+- Built and scaled $250K IT services company serving 40+ clients
+- Completed Launch School software engineering curriculum (95%)
+- Managed multi-million dollar real estate portfolio and operations
 
-## Repository Structure
+## Current Focus
 
-### DevOps Learning Tracks
+Building expertise for DevOps engineer roles through:
 
-| Repository Type | Description | Examples |
-|-----------------|-------------|----------|
-| `terraform-*` | Terraform projects and learning | `terraform-learning-path`, `terraform-aws-modules` |
-| `kubernetes-*` | Kubernetes orchestration and platform engineering | `kubernetes-learning-path`, `kubernetes-finance-platform` |
-| `aws-*` | AWS infrastructure and cloud architecture | `aws-learning-path`, `aws-multi-account` |
-| `docker-*` | Containerization approaches | `docker-learning-path`, `docker-microservices` |
-| `monitoring-*` | Observability solutions | `monitoring-learning-path`, `monitoring-finance-stack` |
-| `security-*` | Security and compliance automation | `security-learning-path`, `security-compliance-automation` |
+### Active Learning
+- **AWS Solutions Architect Associate** - In progress
+- **CompTIA Security+ SY0-701** - Renewal in progress
+- **HashiCorp Terraform Associate** - Planned
+- **Google Project Management Certificate** - Current
 
-### Professional Projects
+### Technical Skills Development
+- AWS cloud architecture with security and compliance emphasis
+- Infrastructure as Code using Terraform
+- CI/CD pipeline implementation
+- Container technologies (Docker, Kubernetes fundamentals)
+- Security automation for financial services
 
-*[Note: Professional DevOps projects will be added here as they are developed]*
+## Projects
 
-### Supporting Repositories
+Currently building portfolio projects to demonstrate:
+- Multi-account AWS infrastructure for financial services
+- Terraform modules for compliant infrastructure
+- CI/CD pipelines with security integration
+- Container security implementations
 
-| Repository | Purpose |
-|------------|---------|
-| `devops-reference` | Comprehensive knowledge base for DevOps concepts |
-| `learning-roadmap` | Career development path and skill acquisition plan |
-| `terminal-environment` | Terminal-based development environment configuration |
-| `repository-utilities` | Git management scripts and utilities |
+## Connect
 
-## Project Standards
-
-All repositories aim to maintain:
-
-1. **Comprehensive Documentation**
-   - Detailed README with architecture diagrams
-   - Infrastructure decision records
-   - Business value documentation
-   - Security and compliance considerations
-
-2. **Infrastructure as Code Best Practices**
-   - Modular, reusable components
-   - Security-first approach
-   - Multi-environment implementation
-   - Proper state management
-
-3. **Clean Code Principles**
-   - Consistent naming conventions
-   - Clear separation of concerns
-   - DRY (Don't Repeat Yourself) implementation
-   - Well-structured, maintainable code
-
-4. **Financial Services Focus**
-   - Compliance considerations
-   - Security implementation
-   - High-availability patterns
-   - Audit and monitoring capabilities
-
-## Acknowledgements
-
-This project was developed with assistance from Anthropic's Claude AI assistant, which helped with:
-- Documentation writing and organization
-- Code structure suggestions
-- Troubleshooting and debugging assistance
-
-Claude was used as a development aid while all final implementation decisions and code review were performed by Joshua Michael Hall.
-
-## Disclaimer
-
-This project is in progress. No liability for any issues that may arise from its use. Please report any issues you encounter.
-
-## Contact
-
-- **GitHub:** [@JoshuaMichaelHall](https://github.com/JoshuaMichaelHall)
-- **Email:** contact@joshuamichaelhall.com
 - **Website:** [joshuamichaelhall.com](https://joshuamichaelhall.com)
+- **LinkedIn:** [linkedin.com/in/joshuamichaelhall](https://linkedin.com/in/joshuamichaelhall)
+- **Email:** contact@joshuamichaelhall.com
+
+---
+
+*Currently participating in the [DevOps 180 Challenge](https://github.com/joshuamichaelhall/devops-180-challenge) - a structured 180-day journey to transition into DevOps engineering.*
