@@ -1,45 +1,68 @@
-# Joshua Michael Hall
+# JoshuaMichaelHall-Tech
 
-Infrastructure professional transitioning to DevOps engineering, currently building systematic expertise through AWS, Security+, and Terraform certifications.
+Technical organization for DevOps learning projects and portfolio development. Infrastructure professional transitioning to DevOps engineering through systematic skill building.
+
+## Organization Purpose
+
+This organization serves as a structured environment for:
+- Learning and documenting DevOps technologies
+- Building portfolio projects for career transition
+- Demonstrating infrastructure automation capabilities
+- Following consistent project standards and naming conventions
+
+## Current Learning Focus
+
+### Certifications in Progress
+- AWS Solutions Architect Associate
+- CompTIA Security+ SY0-701 (Renewal)
+- HashiCorp Terraform Associate (Planned)
+- Google Project Management Certificate
+
+### Technology Areas
+- **AWS Cloud**: Building foundational knowledge in AWS services
+- **Infrastructure as Code**: Learning Terraform for automated deployments
+- **Containers**: Docker fundamentals and Kubernetes basics
+- **CI/CD**: GitHub Actions and pipeline automation
+- **Security**: Applying network security experience to cloud environments
+
+## Repository Structure
+
+### Learning Repositories
+| Type | Purpose | Status |
+|------|---------|--------|
+| `aws-*` | AWS service exploration and practice | Active |
+| `terraform-*` | Infrastructure as Code learning | Active |
+| `docker-*` | Container technology fundamentals | Planned |
+| `kubernetes-*` | Container orchestration basics | Planned |
+| `security-*` | Security automation practices | Planned |
+
+### Portfolio Projects (In Development)
+- Financial Services AWS Infrastructure
+- Terraform Module Library
+- CI/CD Pipeline Implementation
+- Container Security Platform
+
+## Standards & Practices
+
+All projects aim to follow:
+1. Clear documentation with learning notes
+2. Security-first approach
+3. Clean, maintainable code
+4. Practical, real-world applications
 
 ## Professional Background
 
-- Led 13-person technical team deploying 5,000 systems at Vanderbilt Hospital
-- Built and scaled $250K IT services company serving 40+ clients
-- Completed Launch School software engineering curriculum (95%)
-- Managed multi-million dollar real estate portfolio and operations
-
-## Current Focus
-
-Building expertise for DevOps engineer roles through:
-
-### Active Learning
-- **AWS Solutions Architect Associate** - In progress
-- **CompTIA Security+ SY0-701** - Renewal in progress
-- **HashiCorp Terraform Associate** - Planned
-- **Google Project Management Certificate** - Current
-
-### Technical Skills Development
-- AWS cloud architecture with security and compliance emphasis
-- Infrastructure as Code using Terraform
-- CI/CD pipeline implementation
-- Container technologies (Docker, Kubernetes fundamentals)
-- Security automation for financial services
-
-## Projects
-
-Currently building portfolio projects to demonstrate:
-- Multi-account AWS infrastructure for financial services
-- Terraform modules for compliant infrastructure
-- CI/CD pipelines with security integration
-- Container security implementations
+- Led technical teams in enterprise deployments
+- Built and operated IT services company
+- Network security and system administration experience
+- Currently focused on cloud and automation technologies
 
 ## Connect
 
-- **Website:** [joshuamichaelhall.com](https://joshuamichaelhall.com)
-- **LinkedIn:** [linkedin.com/in/joshuamichaelhall](https://linkedin.com/in/joshuamichaelhall)
-- **Email:** contact@joshuamichaelhall.com
+- **Personal GitHub**: [@JoshuaMichaelHall](https://github.com/JoshuaMichaelHall)
+- **Website**: [joshuamichaelhall.com](https://joshuamichaelhall.com)
+- **LinkedIn**: [linkedin.com/in/joshuamichaelhall](https://linkedin.com/in/joshuamichaelhall)
 
 ---
 
-*Currently participating in the [DevOps 180 Challenge](https://github.com/joshuamichaelhall/devops-180-challenge) - a structured 180-day journey to transition into DevOps engineering.*
+*Note: This organization contains learning projects and work-in-progress implementations as part of my DevOps career development journey.*
